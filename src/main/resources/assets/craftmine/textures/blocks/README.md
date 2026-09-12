@@ -1,0 +1,1 @@
+Place your own 16x16 PNG block textures here. CraftMine ships only a procedural placeholder atlas and no official Minecraft assets. See the repository-level assets/craftmine/textures/blocks/README.md for the supported names.
